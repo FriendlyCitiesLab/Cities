@@ -1,86 +1,86 @@
 # Cities
 This is a file that contains 83 cities for the purpose of labeling cities in the US.
 It is a subset of one of Esri's old files that includes 2010 pop information, and a bunch of other demographics. It should just be used for labeling. 
-NAME	CLASS	ST
-Birmingham	city	AL
-Mobile	city	AL
-Montgomery	city	AL
-Anchorage	municipality	AK
-Phoenix	city	AZ
-Tucson	city	AZ
-Little Rock	city	AR
-Bakersfield	city	CA
-Fresno	city	CA
-Los Angeles	city	CA
-San Diego	city	CA
-San Francisco	city	CA
-San Jose	city	CA
-Denver	city	CO
-Hartford	city	CT
-Washington	city	DC
-Gainesville	city	FL
-Jacksonville	city	FL
-Miami	city	FL
-Orlando	city	FL
-Tallahassee	city	FL
-Tampa	city	FL
-Atlanta	city	GA
-Savannah	city	GA
-Honolulu	Census Designated Place	HI
-Boise City	city	ID
-Chicago	city	IL
-Indianapolis	city	IN
-Des Moines	city	IA
-Topeka	city	KS
-Wichita	city	KS
-Louisville	unknown	KY
-Baton Rouge	city	LA
-New Orleans	city	LA
-Shreveport	city	LA
-Baltimore	city	MD
-Boston	city	MA
-Detroit	city	MI
-Minneapolis	city	MN
-Jackson	city	MS
-Kansas City	city	MO
-St. Louis	city	MO
-Billings	city	MT
-Omaha	city	NE
-Las Vegas	city	NV
-Reno	city	NV
-Albuquerque	city	NM
-Buffalo	city	NY
-New York	city	NY
-Charlotte	city	NC
-Raleigh	city	NC
-Fargo	city	ND
-Cincinnati	city	OH
-Cleveland	city	OH
-Columbus	city	OH
-Oklahoma City	city	OK
-Tulsa	city	OK
-Eugene	city	OR
-Portland	city	OR
-Philadelphia	city	PA
-Pittsburgh	city	PA
-Providence	city	RI
-Charleston	city	SC
-Columbia	city	SC
-Sioux Falls	city	SD
-Memphis	city	TN
-Nashville	city (consolidated, balance)	TN
-Abilene	city	TX
-Austin	city	TX
-Dallas	city	TX
-El Paso	city	TX
-Houston	city	TX
-Lubbock	city	TX
-McAllen	city	TX
-Odessa	city	TX
-San Antonio	city	TX
-Salt Lake City	city	UT
-Virginia Beach	city	VA
-Seattle	city	WA
-Spokane	city	WA
-Green Bay	city	WI
-Milwaukee	city	WI
+NAME	STATE
+Birmingham	AL
+Mobile	AL
+Montgomery	AL
+Anchorage	AK
+Phoenix	AZ
+Tucson	AZ
+Little Rock	AR
+Bakersfield	CA
+Fresno	CA
+Los Angeles	CA
+San Diego	CA
+San Francisco	CA
+San Jose	CA
+Denver	CO
+Hartford	CT
+Washington	DC
+Gainesville	FL
+Jacksonville	FL
+Miami	FL
+Orlando	FL
+Tallahassee	FL
+Tampa	FL
+Atlanta	GA
+Savannah	GA
+Honolulu	HI
+Boise City	ID
+Chicago	IL
+Indianapolis	IN
+Des Moines	IA
+Topeka	KS
+Wichita	KS
+Louisville	KY
+Baton Rouge	LA
+New Orleans	LA
+Shreveport	LA
+Baltimore	MD
+Boston	MA
+Detroit	MI
+Minneapolis	MN
+Jackson	MS
+Kansas City	MO
+St. Louis	MO
+Billings	MT
+Omaha	NE
+Las Vegas	NV
+Reno	NV
+Albuquerque	NM
+Buffalo	NY
+New York	NY
+Charlotte	NC
+Raleigh	NC
+Fargo	ND
+Cincinnati	OH
+Cleveland	OH
+Columbus	OH
+Oklahoma City	OK
+Tulsa	OK
+Eugene	OR
+Portland	OR
+Philadelphia	PA
+Pittsburgh	PA
+Providence	RI
+Charleston	SC
+Columbia	SC
+Sioux Falls	SD
+Memphis	TN
+Nashville	TN
+Abilene	TX
+Austin	TX
+Dallas	TX
+El Paso	TX
+Houston	TX
+Lubbock	TX
+McAllen	TX
+Odessa	TX
+San Antonio	TX
+Salt Lake City	UT
+Virginia Beach	VA
+Seattle	WA
+Spokane	WA
+Green Bay	WI
+Milwaukee	WI
